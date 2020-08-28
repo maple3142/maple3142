@@ -4,8 +4,6 @@ A computer science student from Taiwan, programming as a hobby since high school
 
 I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 
-# Skill list
-
 ## Experiences
 
 * High school computer club MIS
@@ -19,6 +17,7 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 * Bootstrap
 * Vue.js 2
 * Vuetify
+* Hexo
 * UserScripts
 * UserStyles
 * WebExtension
@@ -26,7 +25,7 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 ## Back-end
 
 * Node.js (JS+TS)
-* Python
+* Python (Scrapy)
 * PHP (Plain+Laravel)
 * MySQL
 * SQLite
@@ -42,10 +41,12 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 
 * Heroku
 * Google Cloud Platform (Compute Engine+App Engine+Cloud SQL)
+* Azure
+* AWS
 * Linode
 * DigitalOcean
 * CloudFlare (DNS+Workers)
-* Small VPS providers
+* Cheap VPS providers
 
 ## Application Develpoment
 
@@ -57,8 +58,13 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 
 * WSL
 * Git
+* Competitive programming in C++
+* Openwrt
+* Web Scraping
+* Lua
+* Basic Japanese
 
-# Links
+## Links
 
 * [Blog](https://blog.maple3142.net/)
 * [Twitter](https://twitter.com/maple3142)
