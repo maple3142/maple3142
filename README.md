@@ -21,6 +21,7 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 * UserScripts
 * UserStyles
 * WebExtension
+* WebAssembly
 
 ## Back-end
 
