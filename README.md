@@ -49,7 +49,7 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 * CloudFlare (DNS+Workers)
 * Cheap VPS providers
 
-## Application Develpoment
+## Application Development
 
 * Electron
 * Android App (Java+Kotlin)
