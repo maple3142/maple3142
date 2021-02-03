@@ -60,6 +60,7 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 * WSL
 * Git
 * Competitive programming in C++
+* Some CTF experiences
 * Openwrt
 * Web Scraping
 * Lua
