@@ -1,8 +1,8 @@
 # maple3142
 
-A computer science student from Taiwan, programming as a hobby since high school. I like programming, games, music, anime and novels.
+A computer science student from Taiwan, learned programming since high school. I like programming, games, music, anime and novels.
 
-I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
+I have a blog written in Chinese [here](https://blog.maple3142.net/), it is mostly CTF writeups now.
 
 ## Experiences
 
@@ -60,11 +60,11 @@ I have a blog [here](https://blog.maple3142.net/), but it is written in Chinese.
 * WSL
 * Git
 * Competitive programming in C++
-* Some CTF experiences
+* Some CTF experiences (Mainly web & crypto, knowing some pwn & rev too)
 * Openwrt
 * Web Scraping
 * Lua
-* Basic Japanese
+* Basic Japanese (~N3 level)
 
 ## Links
 
